@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">fb2ls</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="crash_toast_text">Ooooops! Ошибка приложения!</string>
+    <string name="crash_dialog_text">Отправить отчёт об ошибке разработчику</string>
+    <string name="crash_dialog_title">Ошибка</string>
+    <string name="crash_dialog_comment_prompt">Вы можете добавить свой комментарий (не обязательно):</string>
+    <string name="crash_dialog_ok_toast">Спасибо!</string>
+
+
+    <string name="cancel_label">Отмена</string>
+    <string name="confirm_label">Выбрать</string>
+    <string name="selected_folder_label">Выберите папку:</string>
+    <string name="create_folder_label">Создать папку</string>
+    <string name="create_folder_msg">Создать папку с именем "%1$s"?</string>
+    <string name="create_folder_success">Создана новая папка</string>
+    <string name="create_folder_error_no_write_access">Не могу писать в эту папку</string>
+    <string name="create_folder_error_already_exists">Папка уже существует</string>
+    <string name="create_folder_error">Не удалось создать папку</string>
+    <string name="up_label">Вверх</string>
+    <string name="action_about">О программе</string>
+    <string name="files_folders">Файлы/папки:</string>
+    <string name="replace_links_text">Сноски сразу после ссылок на них</string>
+    <string name="results_path">Папка с результатами:</string>
+    <string name="start">Пуск</string>
+    <string name="add_file">Добавить файл</string>
+    <string name="add_folder">Добавить папку</string>
+
+</resources>
